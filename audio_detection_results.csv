@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1,auc_roc
+svm,1.0,1.0,1.0,1.0,1.0
+logistic,1.0,1.0,1.0,1.0,1.0
+perceptron,1.0,1.0,1.0,1.0,
+dnn,1.0,1.0,1.0,1.0,1.0
