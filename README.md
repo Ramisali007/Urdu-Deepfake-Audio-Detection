@@ -1,4 +1,4 @@
-##🔍 Detecting Deepfakes & Predicting Software Defects with Machine Learning and ML Classification Pipeline
+## 🔍 Detecting Deepfakes & Predicting Software Defects with Machine Learning and ML Classification Pipeline
 
 This repository contains a comprehensive implementation of classification tasks using various machine learning models including Support Vector Machines (SVM), Logistic Regression, Perceptron, and Deep Neural Networks (DNN).
 
